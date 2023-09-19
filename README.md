@@ -1,6 +1,6 @@
-** Machine_Learning_Lab
+**Machine_Learning_Lab**
 
-1. MACHNINE LEARNING BASICS**
+**1. MACHNINE LEARNING BASICS**
 
 Problem 1: You are required to use numpy for operation on matrices. Create a matrix B of
 dimensions x × y, where x= 300 and y = 80. Initialize Matrix B. Create a vector v of dimension
