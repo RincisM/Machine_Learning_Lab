@@ -69,3 +69,26 @@ Problem 7. Fire and Theft in Chicago (Dataset 3)
 In the following data pairs
 • X = fires per 1000 housing units
 • Y = thefts per 1000 population within the same Zip code in the Chicago metro area
+
+
+**3. Muliple Linear Regression**
+
+Problem 8. Basketball (Dataset 4)
+The following data (X1, X2, X3, X4, X5) are for each player.
+
+X1 = height in feet
+X2 = weight in pounds
+X3 = percent of successful field goals (out of 100 attempted)
+X4 = percent of successful free throws (out of 100 attempted)
+X5 = average points scored per game
+
+Problem 2. Crime (Dataset 5)
+The data (X1, X2, X3, X4, X5, X6, X7) are for each city.
+
+X1 = total overall reported crime rate per 1 million residents
+X2 = reported violent crime rate per 100,000 residents
+X3 = annual police funding in $/resident
+X4 = % of people 25 years+ with 4 yrs. of high school
+X5 = % of 16 to 19 year-olds not in highschool and not highschool graduates.
+X6 = % of 18 to 24 year-olds in college
+X7 = % of people 25 years+ with at least 4 years of college
